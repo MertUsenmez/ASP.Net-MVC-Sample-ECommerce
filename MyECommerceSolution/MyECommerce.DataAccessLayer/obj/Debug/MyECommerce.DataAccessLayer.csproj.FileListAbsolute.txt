@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\MyECommerce.DataAccessLayer.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\MyECommerce.DataAccessLayer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\MyECommerce.DataAccessLayer.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\MyECommerce.Entities.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\MyECommerce.Entities.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\obj\Debug\MyECommerce.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\obj\Debug\MyECommerce.DataAccessLayer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.DataAccessLayer\obj\Debug\MyECommerce.DataAccessLayer.pdb

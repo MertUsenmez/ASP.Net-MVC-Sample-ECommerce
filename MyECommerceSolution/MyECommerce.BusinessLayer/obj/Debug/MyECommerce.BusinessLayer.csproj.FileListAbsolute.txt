@@ -1,0 +1,15 @@
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.BusinessLayer.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.BusinessLayer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.BusinessLayer.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.DataAccessLayer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.Entities.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.DataAccessLayer.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.DataAccessLayer.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\MyECommerce.Entities.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\obj\Debug\MyECommerce.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\obj\Debug\MyECommerce.BusinessLayer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.BusinessLayer\obj\Debug\MyECommerce.BusinessLayer.pdb

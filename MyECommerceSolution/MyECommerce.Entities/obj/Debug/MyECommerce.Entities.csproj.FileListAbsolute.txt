@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.Entities\bin\Debug\MyECommerce.Entities.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.Entities\bin\Debug\MyECommerce.Entities.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.Entities\obj\Debug\MyECommerce.Entities.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.Entities\obj\Debug\MyECommerce.Entities.dll
+C:\Users\User\documents\visual studio 2017\Projects\MyECommerceSolution\MyECommerce.Entities\obj\Debug\MyECommerce.Entities.pdb
